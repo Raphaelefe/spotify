@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgba(0, 0, 0, 0.849);
+}
+
+.header1 {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    
+}
+.header1 h1{
+    margin-left: 40px;
+    margin-top: -39px;
+}
+.header1 i{
+    color: green;
+    font-size: 40px;
+}
+.shift{
+    margin-top: -50px;
+}
+.header2 {
+    background-color: black;
+    padding: 250px;
+    width: 25%;
+    margin-top: 60px;
+    margin-left: 30%;
+}
+.header22{
+    color: #fff;
+    margin-left: 39%;
+    font-size: 40px;
+    margin-top: -490px;
+
+}
+.header3 {
+    padding: 5px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 540px;
+    border-radius: 18px;
+    text-align: center;
+}
+.header3 i{
+   font-size: 20px;
+   color: red;
+   margin-left: -200px;
+}
+.header3 p {
+    margin-top: -20px;
+    margin-right: 2px;
+}
+
+.header4{
+    padding: 5px;
+    border: 1px solid white;
+    width: 250px;
+    border-radius: 18px;
+    margin-left: 540px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.header4 i{
+    font-size: 20px;
+    margin-left: -200px;
+    color: blue;
+}
+.header4 p{
+    margin-top: -20px;
+}
+.header5{
+    padding: 5px;
+    border: 1px solid white;
+    width: 250px;
+    border-radius: 18px;
+    margin-left: 540px;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+} 
+.header5 i{
+    font-size: 20px;
+    margin-left: -200px;
+}
+.header5 p{
+    margin-top: -20px;
+}
+.logshift{
+    margin-top: 100px;
+}
+.login1 {
+    font-size: 20px;
+    margin-top: -55px;    
+   
+}
+.login1 form{
+    margin-left: 540px;
+    color: white;
+    margin-top: 10px;
+}
+.login1 label{
+    font-size: 20px;
+}
+.login1 input{
+    font-size: 20px;
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+}
+.br{
+    padding: 0.05px;
+    background-color: white;
+    width: 300px;
+    margin-left: 38%;
+    margin-top: 35px;
+}
+.lug {
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 0px;
+
+}
+.lug button{
+    font-size: 25px;
+    padding: 1px;
+    background-color: green;
+    color: white;
+    width: 250px;
+    margin-left: -100px;
+    border-radius: 30px;
+}
